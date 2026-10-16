@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+
+# Node-RED runtime files
+.config.*.json
+.config.*.json.backup
+*.backup
+examples/data/
+
+# OS / editor
+.DS_Store
+*Zone.Identifier
+.vscode/
+.idea/
