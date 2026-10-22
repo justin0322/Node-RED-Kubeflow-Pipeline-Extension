@@ -11,7 +11,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white)
 
-> University capstone project, developed by a team of four.
+> University capstone project, developed by a team of three.
 
 ## Overview
 
@@ -32,7 +32,7 @@ from the trained model stored on a PVC.
 
 ### Architecture
 
-![architecture](https://github.com/NightLightTw/kubeflow-Node-RED/assets/78789817/7cce84cf-a4df-47a6-9992-9412bc70819b)
+![architecture](https://hackmd.io/_uploads/H1ZLgUsH2.png)
 
 ### Demo
 
@@ -116,9 +116,9 @@ A step-by-step tutorial (Chinese) is in [`examples/README.md`](examples/README.m
 
 ## Team
 
-Built as a university capstone project by a four-person team, with all members contributing
+Built as a university capstone project by a three-person team, with all members contributing
 to design and implementation across the Node-RED nodes, Kubeflow pipelines, and KServe deployment.
-Original team repository: [NightLightTw/kubeflow-Node-RED](https://github.com/NightLightTw/kubeflow-Node-RED).
+Originally developed in the team repository `NightLightTw/kubeflow-Node-RED`, which is no longer publicly available.
 
 ## References
 
